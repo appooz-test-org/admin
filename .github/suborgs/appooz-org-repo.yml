@@ -2,7 +2,7 @@
 
 # List of repos that belong to the suborg
 suborgrepos:
-  - appooz-org-repo*
+  - appooz-org-repo1
 # You can use Glob patterns
 
 #suborgteams:
