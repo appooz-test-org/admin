@@ -196,8 +196,8 @@ collaborators:
 # Collaborators: give specific users access to any repository.
 # See https://developer.github.com/v3/repos/collaborators/#add-user-as-a-collaborator for available options
 
-- username: appooz
-  permission: admin
+- username: aajith-arista
+  permission: push
 # The permission to grant the collaborator. Can be one of:
 # * `pull` - can pull, but not push to or administer this repository.
 # * `push` - can pull and push, but not administer this repository.
