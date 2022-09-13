@@ -220,7 +220,7 @@ collaborators:
 
 branches:
   # If the name of the branch value is specified as `default`, then the app will create a branch protection rule to apply against the default branch in the repo
-  - name: main-*
+  - name: main-eos-trunk
     # https://developer.github.com/v3/repos/branches/#update-branch-protection
     # Branch Protection settings. Set to null to disable
     protection:
